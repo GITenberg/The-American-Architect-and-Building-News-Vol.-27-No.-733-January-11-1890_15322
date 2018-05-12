@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15322#The-American-Architect-and-Building-News-Vol.-27-No.-733-January-11-1890
 gutenberg_bookshelf: The American Architect and Building News
 gutenberg_issued: '2005-03-11'
 gutenberg_type: Text
